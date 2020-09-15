@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1489148298 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\file_dl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file_dl.h"
+
+1489148296 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\file_dl\file_dl.c
+	"file_dl.h"
+
+1489148298 d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\file_dl\file_dl.h
+	<stdio.h>
+	<stdlib.h>
+

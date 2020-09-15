@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1489149198 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\listesdoublementchainees\listedoublechainee.c
+	"listeDoubleChainee.h"
+
+1489149819 d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\listesdoublementchainees\listedoublechainee.h
+	<stdio.h>
+	<stdlib.h>
+
+1489149175 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\listesdoublementchainees\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listeDoubleChainee.h"
+

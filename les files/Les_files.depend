@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1484859684 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\les files\file.c
+	<stdio.h>
+	"file.h"
+
+1484859674 d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\les files\file.h
+	<stdio.h>
+
+1484860832 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\les files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+
+1484859684 source:c:\users\oussama\desktop\les files\file.c
+	<stdio.h>
+	"file.h"
+
+1484859674 c:\users\oussama\desktop\les files\file.h
+	<stdio.h>
+
+1486334692 source:c:\users\oussama\desktop\les files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+

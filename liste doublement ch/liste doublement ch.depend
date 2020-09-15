@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1485018007 source:c:\users\isga\desktop\hhhhhhhhhhhhhhh\liste doublement ch\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste_dbCH.h"
+
+1485017590 c:\users\isga\desktop\hhhhhhhhhhhhhhh\liste doublement ch\liste_dbch.h
+
+1491832613 source:d:\codes\2ei\liste doublement ch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"liste_dbCH.h"
+
+1487958292 d:\codes\2ei\liste doublement ch\liste_dbch.h
+

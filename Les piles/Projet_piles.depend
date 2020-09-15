@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1484861379 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\projet_piles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pile.h"
+
+1484345344 d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\projet_piles\pile.h
+
+1484861431 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\projet_piles\pile.c
+	<stdio.h>
+	"pile.h"
+
+1484863031 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\les piles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pile.h"
+
+1484345344 d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\les piles\pile.h
+
+1484862558 source:d:\[00] - xtrem importance\mes cours\[02] - informatique\00 - algorithmique et structures de données\codeblockprojetcs\les piles\pile.c
+	<stdio.h>
+	"pile.h"
+
+1484862558 source:c:\users\oussama\desktop\les piles\pile.c
+	<stdio.h>
+	"pile.h"
+
+1484345344 c:\users\oussama\desktop\les piles\pile.h
+
+1485440770 source:c:\users\oussama\desktop\les piles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pile.h"
+

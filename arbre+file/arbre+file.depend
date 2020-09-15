@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1491835453 source:d:\codes\arbre+file\arbre+file.c
+	<stdio.h>
+	<string.h>
+	"arbre+file.h"
+
+1490974783 d:\codes\arbre+file\arbre+file.h
+
+1490978615 source:d:\codes\arbre+file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre+file.h"
+
+1496392100 source:d:\codes\2ei\arbre+file\arbre+file.c
+	<stdio.h>
+	<string.h>
+	"arbre+file.h"
+
+1495994744 d:\codes\2ei\arbre+file\arbre+file.h
+
+1493393226 source:d:\codes\2ei\arbre+file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre+file.h"
+
